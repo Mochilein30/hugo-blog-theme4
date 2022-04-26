@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: Aura Arbulu Vasquez
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,16 +14,16 @@ status:
 
 # Organizations/Affiliations
 organizations:
-  - name: 腾讯
-    url: ''
+  - name: Somos Ciudadania
+    url: 'www.somosciudadania.org'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include LATAM politics, political campaigns, decentralization, parliaments, women and tech.
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- Political campaigns
+#- Female leadership
+#- Public policy with evidence
 
 #education:
 #  courses:
