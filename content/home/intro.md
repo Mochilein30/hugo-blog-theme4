@@ -18,6 +18,10 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Alice**, a data scientist at Google.
+🐈 Hello visitor! I'm **Aura**, a lawyer learning stats and coding to improve public policy and football.
 
-Check out my [CV](/about/) and blog posts below 🌈
+🐈 También en español. ¡Hola! Soy **Aura**, estudiante de maestría en Berlín aprendiendo estadística y a programar para mejorar políticas públicas y fútbol (sobre todo de mujeres)
+
+Check out my [CV](/about/) and blog posts below 🌈 
+
+Chequea mi [CV](/about/) y lo que pienso abajo

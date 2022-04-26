@@ -44,7 +44,7 @@ social:
     link: 'about/#contact' # For a direct email link, use "auram.arbulu@gmail.com".
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/Mochilein30
+    link: https://twitter.com/Mochilein
   
 # Uncomment below for Github link
 #- icon: github
