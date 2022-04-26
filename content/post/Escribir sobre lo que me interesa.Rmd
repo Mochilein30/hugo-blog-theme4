@@ -1,0 +1,31 @@
+---
+title: "Escribir sobre lo que te gusta"
+author: 'Aura Arbulu'
+date: '2022-04-26'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Hace unos días conversaba con un profesor sobre que quería aprender más sobre cómo mejorar campañas de microtargeting para campañas políticas porque me gustaría participar en la campaña nacional del 2026 y ayudar a la persona que considere conveniente.
+
+Este profesor me sugirió escribirle a personas que hayan hecho ya lo mismo y que me pusiera a investigar y escribir sobre lo que me gusta, y es lo que he decidido hacer.
+
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
